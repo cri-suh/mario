@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mario Bros</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="mascara-formulario"></div>
+
+    <header class="header">
+        <img src="img/logo-header.png" alt="logo mario">
+        <a href="#">Home</a>
+        <a href="">Nossos Serviços</a>
+        <a onclick="formularioContato()">Fale Conosco</a>
+
+    </header>
+
+    <section class="principal">
+        <div class="caixa-principal">
+            <img class="logo-mario" src="img/logo.png" alt="logo do mario bros">
+            <p>🔧 Encanadores Mario & Luigi - Resolvendo Seus Problemas Hidráulicos Com Estilo! 🔧</p><br>
+            <p>Você já se encontrou em uma situação de emergência com encanamento? Vazamentos inesperados, canos
+                entupidos ou torneiras que não param de pingar? Não se preocupe, porque estamos aqui para salvar o dia!
+                Apresentamos a vocês os encanadores mais famosos do Reino dos Cogumelos - Mario e Luigi</p>
+            <button onclick="formularioContato()" class="botao-contato">ENTRE EM CONTATO</button>
+        </div>
+        <div>
+            <img class="imagem-mario-luigi" src="img/mario.png" alt="">
+        </div>
+    </section>
+    <div class="caixa-video">
+        <video src="img/video.mp4" autoplay muted loop></video>
+        <div class="mascara"></div>
+    </div>
+
+    <a href="">
+        <img class="link-whatssap" src="img/whatsapp.png" alt="whatsapp">
+    </a>
+
+    <form class="formulario-fale-conosco" action="https://formcarry.com/s/ksYJpERfme5" method="POST" enctype="multipart/form-data">
+        <input type="text" name="nome" placeholder="Seu nome">
+        <input type="tel" name="telefone" placeholder="telefone">
+        <textarea name="duvidas" id="" placeholder="Digite aqui o seu  problema..."></textarea>
+        <button type="submit" >Pedir Orçamento</button>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
