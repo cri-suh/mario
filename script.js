@@ -14,3 +14,4 @@ function fecharForm() {
     form.style.transform = 'translateX(0)'
 
 }
+
