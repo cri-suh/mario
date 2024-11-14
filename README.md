@@ -5,7 +5,7 @@
 
 ## Descrição:
 
-Projeto construido com habilidades adquiridas no curso DevClub. Aqui, aplicamos os conhecimentos de desenvolvimento web para criar uma página esteticamente agradável e totalmente responsiva.
+Projeto construído com habilidades adquiridas no curso DevClub. Aqui, aplicamos os conhecimentos de desenvolvimento web para criar uma página esteticamente agradável e totalmente responsiva.
 <div align="center">
 <img src="img/mockup-mario.png" >
 </div>
