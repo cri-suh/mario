@@ -6,8 +6,9 @@
 ## Descrição:
 
 Projeto construido com habilidades adquiridas no curso DevClub. Aqui, aplicamos os conhecimentos de desenvolvimento web para criar uma página esteticamente agradável e totalmente responsiva.
-
-<img src="img/imgPage.png" >
+<div align="center">
+<img src="img/mockup-mario.png" >
+</div>
 
 ## Tecnologias utilizadas:
 <div style="display: inline_block"></br>
